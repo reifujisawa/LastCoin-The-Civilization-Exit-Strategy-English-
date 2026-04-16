@@ -1,3 +1,4 @@
+![Header](1776381595979.png)
 LastCoin: The Civilization Exit Strategy
 ​ラストコイン：文明の出口戦略
 ​English | 日本語
