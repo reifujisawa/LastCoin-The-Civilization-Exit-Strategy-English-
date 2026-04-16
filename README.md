@@ -7,6 +7,7 @@ LastCoin: The Civilization Exit Strategy
 ​1. Concept: The Last Currency to End All Currencies
 ​LastCoin is not merely a cryptocurrency; it is a system designed to pivot the energy of human "greed" and "investment" toward social contribution. Its ultimate mission is to shepherd humanity into a "Basic Living" society—where AI and robots automate the supply of all essential resources—thereby allowing humanity to "graduate" from the necessity of currency itself.
 ​2. Core Mechanism
+![Mechanism](1776381856953.png)
 ​Automated & Voluntary Donation Pool: A fixed percentage of every transaction is automatically diverted into a donation pool via smart contracts. Additionally, users can contribute directly to the pool at any time. Because it is governed by code, middleman exploitation is physically impossible.
 ​Physical Provision & Total Traceability: Contributions are distributed not as "cash," but as "physical goods" (food, medicine, daily necessities) leveraging existing logistics. Every contribution is 100% traceable, allowing donors to see exactly who their support reached.
 ​Hacking the Desire for Recognition: By visualizing contribution levels as social status (ranks), the system transforms the human ego and the desire for prestige into a powerful engine for wealth redistribution.
