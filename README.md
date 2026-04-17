@@ -12,6 +12,8 @@ LastCoin: The Civilization Exit Strategy
 ​Physical Provision & Total Traceability: Contributions are distributed not as "cash," but as "physical goods" (food, medicine, daily necessities) leveraging existing logistics. Every contribution is 100% traceable, allowing donors to see exactly who their support reached.
 ​Hacking the Desire for Recognition: By visualizing contribution levels as social status (ranks), the system transforms the human ego and the desire for prestige into a powerful engine for wealth redistribution.
 ​3. Roadmap
+![Image Details](1776383042538.png)
+
 ​The Bridge Phase: Utilizing current global logistics and production, LastCoin expands its donation pool to provide physical goods to those in need, raising the global floor of survival.
 ​The Automation Phase: As AI and robots integrate into logistics and production, the cost of supply drops dramatically, maximizing the efficiency and reach of LastCoin’s support.
 ​The End of Currency: When resources are fully automated and abundant, the need for competition and exchange vanishes. LastCoin completes its mission as the "Last Coin," and humanity transcends the monetary system.
